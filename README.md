@@ -21,7 +21,7 @@ The Application does not use Artificial Intelligence (AI) technologies to proces
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to only username (for login) and game progress. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to only username (for login) and game progress, which is stored locally on the device. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 
 ### Third Party Access
